@@ -49,6 +49,7 @@ MAE: 1.59
 RMSE: 1.70
 
 Özet Sonuçlar
+
 xG ile puan arasında güçlü ve pozitif bir ilişki tespit edilmiştir.
 
 Model, xG verileriyle takım puanlarını oldukça yüksek doğrulukla tahmin edebilmektedir.
